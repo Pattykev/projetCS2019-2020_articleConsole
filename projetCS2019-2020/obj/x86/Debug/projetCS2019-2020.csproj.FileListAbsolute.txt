@@ -1,0 +1,7 @@
+D:\cours_programmation_evenementielle_et_IHM\projetCS2019-2020\projetCS2019-2020\bin\Debug\projetCS2019-2020.exe
+D:\cours_programmation_evenementielle_et_IHM\projetCS2019-2020\projetCS2019-2020\bin\Debug\projetCS2019-2020.pdb
+D:\cours_programmation_evenementielle_et_IHM\projetCS2019-2020\projetCS2019-2020\obj\x86\Debug\projetCS2019-2020.exe
+D:\cours_programmation_evenementielle_et_IHM\projetCS2019-2020\projetCS2019-2020\obj\x86\Debug\projetCS2019-2020.pdb
+D:\cours_programmation_evenementielle_et_IHM\projetCS2019-2020\projetCS2019-2020\obj\x86\Debug\projetCS2019-2020.csprojResolveAssemblyReference.cache
+D:\cours_programmation_evenementielle_et_IHM\projetCS2019-2020_articleConsole\projetCS2019-2020\obj\x86\Debug\projetCS2019-2020.exe
+D:\cours_programmation_evenementielle_et_IHM\projetCS2019-2020_articleConsole\projetCS2019-2020\obj\x86\Debug\projetCS2019-2020.pdb
